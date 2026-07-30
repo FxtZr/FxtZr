@@ -1,16 +1,13 @@
-## Hi there 👋
+***About me***: Pharmacist 💊 & Creator of **[MEDOTUM](https://Medotum.com)** 🌐
 
-<!--
-**FxtZr/FxtZr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***My personal website***: [FxtZr](https://FxtZr.com) 🌐
 
-Here are some ideas to get you started:
+***My personal project***: [MEDOTUM](https://Medotum.com) 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everyone should be able to easily understand the medicines they take or study. Yet that information is often scattered, technical, or hard to reach. MEDOTUM was born from that conviction: to make knowledge about medicines clear, and above all accessible and scientifically reliable.
+
+My goal is to build a small, free, modern online encyclopedia of medicines, where every piece of content is written to be understood by the general public while keeping the level of rigour expected by students and healthcare professionals.
+
+Because a better understanding of medicines leads to better use, MEDOTUM puts education, neutrality, and scientific rigour at the heart of everything it publishes.
+
+— Foxtrot Zerø
