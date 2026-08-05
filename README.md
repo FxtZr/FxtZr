@@ -21,8 +21,13 @@ Pharmacist 💊 & Creator of **[MEDOTUM](https://Medotum.com)** 🌐
 
 - ***My other projects***:
 
-[PYTHIA](https://github.com/FxtZr/PYTHIA)
-> Chemistry that shows its working — structure, stereochemistry, naming, mechanisms and spectra, entirely offline.
+[SANO](https://github.com/FxtZr/SANO)
+> Clinical calculators that show their working.
 
 [ALEXANDRIA](https://github.com/FxtZr/ALEXANDRIA)
 > Read a code before you act on it.
+
+[PYTHIA](https://github.com/FxtZr/PYTHIA)
+> Chemistry that shows its working — structure, stereochemistry, naming, mechanisms and spectra, entirely offline.
+
+
