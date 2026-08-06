@@ -1,6 +1,6 @@
 - ***About me***:
   
-Pharmacist 💊 & Creator of **[MEDOTUM](https://Medotum.com)** 🌐
+Pharmacist 💊 & Creator of **[MEDOTUM](https://Medotum.com)** 🌐.
 
 - ***My personal website***:
 
